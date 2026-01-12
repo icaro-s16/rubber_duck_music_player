@@ -56,7 +56,7 @@ cd SEU_REPOSITORIO
 
 3. Execute o projeto:
 ```Bash
-    cargo run --release
+cargo run --release
 ```
 
 ### Mapeamento das teclas 
