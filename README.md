@@ -2,7 +2,7 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ratatui](https://img.shields.io/badge/Ratatui-%23E30B5C.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 > Um reprodutor de música leve e interativo via terminal (TUI), desenvolvido em Rust.
 
@@ -18,7 +18,7 @@ A interface foi construída utilizando o framework **Ratatui**, oferecendo:
 
 # Rust Terminal Music Player demo
 
-![Demonstração do Player](/home/icaro_s/2026-01-12 18-20-01.mp4)
+![Layout do Player](assets/demo.png)
 
 > Um reprodutor de música leve e interativo...
 
