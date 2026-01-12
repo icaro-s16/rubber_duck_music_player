@@ -1,0 +1,12 @@
+[package]
+name = "msc_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.30.0"
+crossterm = "0.29.0"
+msc_player = {path = "../msc_player"}
+lofty = "0.22.4"
+chrono = "0.4"
+rodio = "0.21.1"

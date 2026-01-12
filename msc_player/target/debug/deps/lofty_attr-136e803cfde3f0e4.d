@@ -1,0 +1,10 @@
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_player/target/debug/deps/lofty_attr-136e803cfde3f0e4.d: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/attribute.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/internal.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_file.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_tag.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/util.rs
+
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_player/target/debug/deps/liblofty_attr-136e803cfde3f0e4.so: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/attribute.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/internal.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_file.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_tag.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/util.rs
+
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lib.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/attribute.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/internal.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_file.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/lofty_tag.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lofty_attr-0.11.1/src/util.rs:

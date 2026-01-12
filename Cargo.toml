@@ -1,0 +1,10 @@
+[package]
+name = "rubber_duck_msc_player"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+msc_app ={ path = "msc_app"}
+ratatui = "0.30.0"
+crossterm = "0.29.0"
+msc_player = {path = "msc_player"}

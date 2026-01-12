@@ -1,0 +1,10 @@
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/symphonia_format_riff-05dbe0ec089ffe98.d: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/common.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/mod.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/chunks.rs
+
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/libsymphonia_format_riff-05dbe0ec089ffe98.rlib: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/common.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/mod.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/chunks.rs
+
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/libsymphonia_format_riff-05dbe0ec089ffe98.rmeta: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/common.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/mod.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/chunks.rs
+
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/lib.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/common.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/mod.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.5/src/wave/chunks.rs:

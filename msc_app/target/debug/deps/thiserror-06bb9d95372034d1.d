@@ -1,0 +1,14 @@
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/thiserror-06bb9d95372034d1.d: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/build/thiserror-332cd017f3723fa2/out/private.rs
+
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/libthiserror-06bb9d95372034d1.rlib: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/build/thiserror-332cd017f3723fa2/out/private.rs
+
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/deps/libthiserror-06bb9d95372034d1.rmeta: /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/build/thiserror-332cd017f3723fa2/out/private.rs
+
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/home/icaro_s/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/build/thiserror-332cd017f3723fa2/out/private.rs:
+
+# env-dep:OUT_DIR=/home/icaro_s/projetos/rubber_duck_msc_player/msc_app/target/debug/build/thiserror-332cd017f3723fa2/out
