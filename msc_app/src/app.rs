@@ -196,6 +196,10 @@ impl App{
         new_cursor_pos.clamp(0, self.user_playlist_input.chars().count())
     }
     fn submit_message(&mut self){
+        self.msc_audio_device.sink.stop();
+        self.current_msc = None;
+        self.msc_time = 0;
+        self.current_msc_time = 0;
         // Carrega um vetor com os nomes das músicas no presentes no arquivo
         self.play_list_vec = library::playlist_msc_names(&self.user_playlist_input[..]);
         // Carrega um vetor de tipos File, correspondente às músicas no arquivo
