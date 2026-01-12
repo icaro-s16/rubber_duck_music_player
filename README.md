@@ -1,4 +1,4 @@
-# 🦀 Rust Terminal Music Player
+# 🐤 Rubber Duck Terminal Music Player 🐤
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Ratatui](https://img.shields.io/badge/Ratatui-%23E30B5C.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -6,9 +6,9 @@
 
 > Um reprodutor de música leve e interativo via terminal (TUI), desenvolvido em Rust.
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
-Este projeto consiste em um music player de terminal focado em simplicidade e eficiência. Basta informar o caminho do diretório onde suas músicas estão localizadas para começar a ouvir.
+Este projeto consiste em um music player de terminal focado em simplicidade e eficiência. Basta informar o caminho do diretório onde suas músicas estão localizadas para começar a ouvir. 
 
 A interface foi construída utilizando o framework **Ratatui**, oferecendo:
 * **Playlist Dinâmica:** Carrega arquivos automaticamente da pasta informada.
@@ -22,7 +22,7 @@ A interface foi construída utilizando o framework **Ratatui**, oferecendo:
 
 > Um reprodutor de música leve e interativo...
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 Para compilar e rodar este projeto no Linux, é necessário ter o compilador Rust instalado. Além disso, devido à dependência da crate `rodio` (utilizada para o áudio), você precisa das bibliotecas de desenvolvimento do **ALSA**.
 
@@ -42,7 +42,7 @@ Arch Linux:
 sudo pacman -S alsa-lib
 ```
 
-🚀 Como Rodar
+### Como Rodar
 
 1. Clone o repositório:
 ```Bash
@@ -58,6 +58,8 @@ cd SEU_REPOSITORIO
 ```Bash
     cargo run --release
 ```
+
+### Mapeamento das teclas 
 
 | Tecla | Ação |
 | :--- | :--- |
