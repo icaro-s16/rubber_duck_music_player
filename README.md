@@ -46,12 +46,12 @@ sudo pacman -S alsa-lib
 
 1. Clone o repositório:
 ```Bash
-git clone [https://github.com/icaro-s16/SEU_REPOSITORIO.git](https://github.com/icaro-s16/SEU_REPOSITORIO.git)
+git clone [https://github.com/icaro-s16/rubber_duck_music_player/edit/main/README.md](https://github.com/icaro-s16/rubber_duck_music_player/edit/main/README.md)
 ```
 
 2. Entre na pasta:
 ```Bash
-cd SEU_REPOSITORIO
+cd  https://github.com/icaro-s16/rubber_duck_music_player/edit/main/README.md
 ```
 
 3. Execute o projeto:
