@@ -223,7 +223,7 @@ impl Widget for &App{
         let mut timeline = String::new();
         timeline.push_str(&passed_time);
         for i in 0 .. 40{
-            if (((self.current_msc_time as f64 / self.msc_time as f64) * 100.0) / 2.5 ) as i32  == i || i == 40{
+            if (((self.current_msc_time as f64 / self.msc_time as f64) * 100.0) / 2.5 ) as i32  == i{
                 timeline.push('o');
             }else{
                 timeline.push('-');
